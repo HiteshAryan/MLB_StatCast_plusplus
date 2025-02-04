@@ -20,6 +20,9 @@ This is baseball analytics redefined—one pitch, one swing, one unforgettable m
 
 **Demo: https://youtu.be/akR2lrS6PTc
 **
+
+_Input Video: https://sporty-clips.mlb.com/UldyR1hfWGw0TUFRPT1fVWdRRVVsRlNWVllBQVZCUlZBQUFDQU1FQUFBTVZGVUFDbHdEQlFJQ1VsRUVDVk5T.mp4
+_
 1. Unzip the Hackathon_MLB.zip file.
 2. Get the dataset from roboflow by using the baseball_training.ipynb notebook. 
 3. Train the model and save the best.pt file in the models directory.

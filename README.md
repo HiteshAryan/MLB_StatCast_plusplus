@@ -27,3 +27,27 @@ Input Model Video I used: https://sporty-clips.mlb.com/UldyR1hfWGw0TUFRPT1fVWdRR
 3. Train the model and save the best.pt file in the models directory.
 4. Download a testing video from here : https://github.com/MajorLeagueBaseball/google-cloud-mlb-hackathon/blob/main/datasets/2024-mlb-homeruns.csv
 5. Run the main.py module to get what you came here for!
+
+
+
+The following modules are used in this project:
+
+YOLO: AI object detection model
+Perspective Transformation: Represent scene depth and perspective
+Speed and distance calculation per player
+
+
+
+Trained Models: Yolo v8x
+
+
+
+Requirements
+To run this project, you need to have the following requirements installed:
+
+Python 3.x
+ultralytics
+supervision
+OpenCV
+NumPy
+Pandas
